@@ -7,7 +7,7 @@ This was inspired by Claude Shannon (father of information theory) who figured o
 
 Enjoy!
 
-**Disclaimer: ROM legitimately aquired and not included for obvious reasons. This game was recently retired from machines.**
+**Disclaimer: ROM legitimately acquired and not included for obvious reasons. This game was recently retired from machines.**
 
 Here's the pipeline:
 
